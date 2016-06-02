@@ -1,0 +1,20 @@
+{
+  "name": "indiangram",
+  "version": "0.1.0",
+  "description": "Proyecto personal utilizando tecnologías de javascript",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "indianwebs",
+    "javcascript",
+    "indiangram"
+  ],
+  "author": "Sergio Andres Ruiz",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4",
+    "materialize-css": "^0.97.6"
+  }
+}
